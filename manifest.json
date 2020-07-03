@@ -1,0 +1,12 @@
+{
+    "lang": "ja",
+    "name": "第一回カラオケ応募！！",
+    "short_name": "第一回カラオケ応募！！",
+    "icons": [{
+          "src": "/15.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        }],
+    "start_url": "https://creative-naoki.github.io/karaoke/",
+    "display": "standalone"
+  }
