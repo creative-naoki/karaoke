@@ -2,6 +2,7 @@
     "lang": "ja",
     "name": "第一回カラオケ応募！！",
     "short_name": "第一回カラオケ応募！！",
+    "background_color": "#fc980c",
     "icons": [{
           "src": "15.png",
           "sizes": "144x144",
