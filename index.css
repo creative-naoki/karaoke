@@ -64,13 +64,13 @@ p{
     overflow: hidden;
 }
 .main{
-    transform: scale(0.95);
+    transform: scale(1.4);
 }
 iframe{
     margin-top: 50px;
-    width: 170%;
+    width: 150%;
     height: auto;
     border: none;
-    transform: translateX(-162px);
+    transform: translateX(-95px);
     
 }
